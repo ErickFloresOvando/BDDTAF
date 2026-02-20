@@ -1,10 +1,12 @@
 🚀 Cucumber Test Automation Framework
 
+
 📌 Project Description
 
 The framework validates different login scenarios for the nopCommerce Admin Portal.
 
 🔗 http://admin-demo.nopcommerce.com/login
+
 
 🛠️ Tech Stack
 
@@ -16,6 +18,7 @@ The framework validates different login scenarios for the nopCommerce Admin Port
 📝 Log4j2
 🧪 Test Scenarios Covered
 
+
 ✅ Valid Login Scenario
 
 User enters valid email and password
@@ -24,17 +27,20 @@ User clicks login
 
 User is redirected to dashboard
 
+
 ❌ Invalid Login Scenario
 
 User enters invalid credentials
 
 Error message is displayed
 
+
 ⚠️ Empty Fields Validation
 
 User tries to login without entering credentials
 
 Validation messages are displayed
+
 
 🧱 Framework Design Pattern
 
@@ -48,6 +54,7 @@ Validation messages are displayed
 
 ✅ Logging implementation with Log4j2
 
+
 📊 Reporting
 
 TestNG Reports
@@ -59,6 +66,7 @@ Console Logs with Log4j2
 Reports are generated under:
 
 /target/cucumber-reports
+
 ▶️ How to Run the Project
 
 1️⃣ Clone Repository
@@ -86,6 +94,7 @@ nopcommerce-login-automation
 │
 ├── pom.xml
 └── README.md
+
 👨‍💻 Author
 
 Automation Project for practice and demonstration purposes.
