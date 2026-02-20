@@ -1,0 +1,52 @@
+22:06:30.771 [main] INFO  stepsdefinitions.Steps - Clicking on Login
+22:06:31.544 [main] INFO  stepsdefinitions.Steps - Test PASSED
+22:06:31.797 [main] INFO  stepsdefinitions.Steps - Clicking on Log out
+22:06:32.485 [main] INFO  stepsdefinitions.Steps - Test PASSED
+22:06:32.490 [main] INFO  stepsdefinitions.Steps - Closing Browser
+22:06:32.610 [main] INFO  stepsdefinitions.Steps - Launching Chrome browser
+22:06:32.618 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 145.0.7632.77 (resolved driver for Chrome 145)
+22:06:32.754 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as /Users/erickfloresovando/.cache/selenium/chromedriver/mac-arm64/145.0.7632.77/chromedriver
+22:06:34.721 [main] INFO  stepsdefinitions.Steps - Opening URL :http://admin-demo.nopcommerce.com/login
+22:06:35.052 [main] INFO  stepsdefinitions.Steps - Entering email as admin@yourstore.com and password admin
+22:06:36.454 [main] INFO  stepsdefinitions.Steps - Clicking on Login
+22:06:36.495 [main] INFO  stepsdefinitions.Steps - Test PASSED
+22:06:36.520 [main] INFO  stepsdefinitions.Steps - Launching Chrome browser
+22:06:36.527 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 145.0.7632.77 (resolved driver for Chrome 145)
+22:06:36.656 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as /Users/erickfloresovando/.cache/selenium/chromedriver/mac-arm64/145.0.7632.77/chromedriver
+22:06:38.005 [main] INFO  stepsdefinitions.Steps - Opening URL :http://admin-demo.nopcommerce.com/login
+22:06:38.349 [main] INFO  stepsdefinitions.Steps - Entering email as admin1@yourstore.com and password admin123
+22:06:39.681 [main] INFO  stepsdefinitions.Steps - Clicking on Login
+22:06:39.868 [main] INFO  stepsdefinitions.Steps - Test PASSED
+22:10:03.377 [main] INFO  stepsdefinitions.Steps - Launching Chrome browser
+22:10:03.560 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 145.0.7632.77 (resolved driver for Chrome 145)
+22:10:03.817 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as /Users/erickfloresovando/.cache/selenium/chromedriver/mac-arm64/145.0.7632.77/chromedriver
+22:10:06.042 [main] INFO  stepsdefinitions.Steps - Opening URL :http://admin-demo.nopcommerce.com/login
+22:10:06.318 [main] INFO  stepsdefinitions.Steps - Entering email as admin@yourstore.com and password admin
+22:10:07.798 [main] INFO  stepsdefinitions.Steps - Clicking on Login
+22:10:08.953 [main] INFO  stepsdefinitions.Steps - Test PASSED
+22:10:08.958 [main] INFO  stepsdefinitions.Steps - Clicking on Log out
+22:10:09.898 [main] INFO  stepsdefinitions.Steps - Test PASSED
+22:10:09.902 [main] INFO  stepsdefinitions.Steps - Closing Browser
+22:10:10.008 [main] INFO  stepsdefinitions.Steps - Launching Chrome browser
+22:10:10.014 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 145.0.7632.77 (resolved driver for Chrome 145)
+22:10:10.143 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as /Users/erickfloresovando/.cache/selenium/chromedriver/mac-arm64/145.0.7632.77/chromedriver
+22:10:11.972 [main] INFO  stepsdefinitions.Steps - Opening URL :http://admin-demo.nopcommerce.com/login
+22:10:12.226 [main] INFO  stepsdefinitions.Steps - Entering email as admin1@yourstore.com and password admin123
+22:10:13.600 [main] INFO  stepsdefinitions.Steps - Clicking on Login
+22:10:13.801 [main] INFO  stepsdefinitions.Steps - Test PASSED
+22:10:44.918 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/erickfloresovando/Library/Caches/JetBrains/IntelliJIdea2025.3/temp-testng-customsuite.xml
+
+22:10:45.207 [main] INFO  stepsdefinitions.Steps - Launching Chrome browser
+22:10:45.378 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 145.0.7632.77 (resolved driver for Chrome 145)
+22:10:45.623 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as /Users/erickfloresovando/.cache/selenium/chromedriver/mac-arm64/145.0.7632.77/chromedriver
+22:10:47.524 [main] INFO  stepsdefinitions.Steps - Opening URL :http://admin-demo.nopcommerce.com/login
+22:10:48.047 [main] INFO  stepsdefinitions.Steps - Entering email as admin@yourstore.com and password admin
+22:10:49.490 [main] INFO  stepsdefinitions.Steps - Clicking on Login
+22:10:49.538 [main] INFO  stepsdefinitions.Steps - Test PASSED
+22:10:50.378 [main] INFO  stepsdefinitions.Steps - Clicking on Log out
+22:10:51.371 [main] INFO  stepsdefinitions.Steps - Test PASSED
+22:10:51.373 [main] INFO  stepsdefinitions.Steps - Closing Browser
+22:10:51.491 [main] INFO  stepsdefinitions.Steps - Launching Chrome browser
+22:10:51.497 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 145.0.7632.77 (resolved driver for Chrome 145)
+22:10:51.630 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as /Users/erickfloresovando/.cache/selenium/chromedriver/mac-arm64/145.0.7632.77/chromedriver
